@@ -2,4 +2,4 @@
 
 # **MLOps Pipeline with GitHub Actions and Heroku**
 
-This repo contains application files for (MLOps Pipeline with GitHub Actions and Heroku)(https://medium.com/@kaanboke/mlops-pipeline-with-github-actions-and-heroku-e8442f6139f7).
+This repo contains application files for [MLOps Pipeline with GitHub Actions and Heroku](https://medium.com/@kaanboke/mlops-pipeline-with-github-actions-and-heroku-e8442f6139f7).
